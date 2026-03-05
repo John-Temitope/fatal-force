@@ -63,7 +63,7 @@ This project was built to go beyond the headlines and let the numbers speak — 
 | **Plotly Express** | Interactive bar, pie, line, choropleth and treemap charts |
 | **Matplotlib** | Static chart framework |
 | **Seaborn** | KDE plots, joint plots, regression plots and heatmaps |
-| **Google Colab** | Cloud notebook environment with Google Drive integration |
+| **Google Colab** | Cloud notebook environment |
 | **Collections (Counter)** | Counting occurrences of specific values |
 
 ---
@@ -105,8 +105,8 @@ fatal-force/
 ### Option 1 — Google Colab (Recommended)
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com/)
-2. Upload the datasets to your Google Drive
-3. Update the file paths in the **Load the Data** section to match your Drive location
+2. Upload the datasets to Google Colab environment
+3. Update the file paths in the **Load the Data** section to match the file location
 4. Run all cells from top to bottom
 
 ### Option 2 — Local Setup
