@@ -178,4 +178,4 @@ The notebook includes the following charts:
 
 ---
 
-*Built by [Adeniran John](https://portfolio-website-i0zw.onrender.com) — Python Developer & Data Analyst*
+*Built by [Adeniran John](https://johntemitope.tech) — Python Developer & Data Analyst*
